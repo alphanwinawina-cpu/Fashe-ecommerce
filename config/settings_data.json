@@ -185,9 +185,9 @@
             "type": "image",
             "settings": {
               "image": "shopify://shop_images/man-in-suit-on-stairs.jpg",
-              "heading": "",
+              "heading": "Collection veste 2026",
               "heading_appear": "fadeInDown",
-              "subheading": "",
+              "subheading": "chic",
               "subheading_appear": "fadeInDown",
               "slide_link_text": "",
               "slide_link": "",
@@ -263,7 +263,7 @@
             "type": "image",
             "settings": {
               "image": "shopify://shop_images/tshirts.jpg",
-              "heading": "Women Collection 2018",
+              "heading": "Women Collection 2026",
               "heading_appear": "rollIn",
               "subheading": "New arrivals",
               "subheading_appear": "lightSpeedIn",
