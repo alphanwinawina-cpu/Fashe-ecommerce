@@ -181,6 +181,71 @@
       "1480267833382": {
         "type": "slideshow",
         "blocks": {
+          "image_nqGTR4": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/man-in-suit-on-stairs.jpg",
+              "heading": "",
+              "heading_appear": "fadeInDown",
+              "subheading": "",
+              "subheading_appear": "fadeInDown",
+              "slide_link_text": "",
+              "slide_link": "",
+              "slide_appear": "fadeInDown"
+            }
+          },
+          "image_b9GBKf": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/man-pointing-at-you.jpg",
+              "heading": "",
+              "heading_appear": "fadeInDown",
+              "subheading": "",
+              "subheading_appear": "fadeInDown",
+              "slide_link_text": "",
+              "slide_link": "",
+              "slide_appear": "fadeInDown"
+            }
+          },
+          "image_GNnPKR": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/fashion-model-in-fur.jpg",
+              "heading": "",
+              "heading_appear": "fadeInDown",
+              "subheading": "",
+              "subheading_appear": "fadeInDown",
+              "slide_link_text": "",
+              "slide_link": "",
+              "slide_appear": "fadeInDown"
+            }
+          },
+          "image_fVF8jd": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/model-with-leather-jacket-over-shoulders.jpg",
+              "heading": "",
+              "heading_appear": "fadeInDown",
+              "subheading": "",
+              "subheading_appear": "fadeInDown",
+              "slide_link_text": "",
+              "slide_link": "",
+              "slide_appear": "fadeInDown"
+            }
+          },
+          "image_V3kMDh": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/mobile-phone-and-gimbal-in-hand.jpg",
+              "heading": "",
+              "heading_appear": "fadeInDown",
+              "subheading": "",
+              "subheading_appear": "fadeInDown",
+              "slide_link_text": "",
+              "slide_link": "",
+              "slide_appear": "fadeInDown"
+            }
+          },
           "1480267833382-1": {
             "type": "image",
             "settings": {
@@ -197,6 +262,7 @@
           "1480267833382-0": {
             "type": "image",
             "settings": {
+              "image": "shopify://shop_images/tshirts.jpg",
               "heading": "Women Collection 2018",
               "heading_appear": "rollIn",
               "subheading": "New arrivals",
@@ -205,24 +271,16 @@
               "slide_link": "shopify://collections",
               "slide_appear": "slideInUp"
             }
-          },
-          "1507555687103": {
-            "type": "image",
-            "settings": {
-              "heading": "Women Collection 2018",
-              "heading_appear": "rotateInDownLeft",
-              "subheading": "New arrivals",
-              "subheading_appear": "rotateInUpRight",
-              "slide_link_text": "Shop Now",
-              "slide_link": "shopify://collections/all",
-              "slide_appear": "rotateIn"
-            }
           }
         },
         "block_order": [
+          "image_nqGTR4",
+          "image_b9GBKf",
+          "image_GNnPKR",
+          "image_fVF8jd",
+          "image_V3kMDh",
           "1480267833382-1",
-          "1480267833382-0",
-          "1507555687103"
+          "1480267833382-0"
         ],
         "settings": {
           "autoplay": true,
