@@ -166,7 +166,7 @@
         "type": "footer",
         "settings": {
           "footer_layout": "footer-1",
-          "footer_content_enable": true,
+          "footer_content_enable": false,
           "footer_about_us": "Any questions? Let us know in store at 8th floor, 379 Hudson St, New York, NY 10018 or call us on (+1) 96 716 6879",
           "footer_social_enable": true,
           "footer_menu_1": "",
