@@ -184,6 +184,7 @@
           "1480267833382-1": {
             "type": "image",
             "settings": {
+              "image": "shopify://shop_images/minimalist-retail-clothing-display.jpg",
               "heading": "Women Collection 2018",
               "heading_appear": "fadeInDown",
               "subheading": "New arrivals",
