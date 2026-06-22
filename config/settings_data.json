@@ -194,54 +194,15 @@
               "slide_appear": "fadeInDown"
             }
           },
-          "image_b9GBKf": {
+          "image_j7Hbyy": {
             "type": "image",
             "settings": {
-              "image": "shopify://shop_images/man-pointing-at-you.jpg",
-              "heading": "",
+              "image": "shopify://shop_images/tying-up-boot-laces.jpg",
+              "heading": "Collection veste 2026",
               "heading_appear": "fadeInDown",
-              "subheading": "",
+              "subheading": "chic & Gallant",
               "subheading_appear": "fadeInDown",
-              "slide_link_text": "",
-              "slide_link": "",
-              "slide_appear": "fadeInDown"
-            }
-          },
-          "image_GNnPKR": {
-            "type": "image",
-            "settings": {
-              "image": "shopify://shop_images/fashion-model-in-fur.jpg",
-              "heading": "",
-              "heading_appear": "fadeInDown",
-              "subheading": "",
-              "subheading_appear": "fadeInDown",
-              "slide_link_text": "",
-              "slide_link": "",
-              "slide_appear": "fadeInDown"
-            }
-          },
-          "image_fVF8jd": {
-            "type": "image",
-            "settings": {
-              "image": "shopify://shop_images/model-with-leather-jacket-over-shoulders.jpg",
-              "heading": "",
-              "heading_appear": "fadeInDown",
-              "subheading": "",
-              "subheading_appear": "fadeInDown",
-              "slide_link_text": "",
-              "slide_link": "",
-              "slide_appear": "fadeInDown"
-            }
-          },
-          "image_V3kMDh": {
-            "type": "image",
-            "settings": {
-              "image": "shopify://shop_images/mobile-phone-and-gimbal-in-hand.jpg",
-              "heading": "",
-              "heading_appear": "fadeInDown",
-              "subheading": "",
-              "subheading_appear": "fadeInDown",
-              "slide_link_text": "",
+              "slide_link_text": "ARRIVAGES",
               "slide_link": "",
               "slide_appear": "fadeInDown"
             }
@@ -275,10 +236,7 @@
         },
         "block_order": [
           "image_nqGTR4",
-          "image_b9GBKf",
-          "image_GNnPKR",
-          "image_fVF8jd",
-          "image_V3kMDh",
+          "image_j7Hbyy",
           "1480267833382-1",
           "1480267833382-0"
         ],
